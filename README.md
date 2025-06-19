@@ -27,7 +27,7 @@ A simple RESTful API for managing tasks (to-dos), built with Spring Boot and Spr
 ## 📦 Project Structure
 
 ```
-com.example.taskmanager
+com.example.Task_Manager_API
 ├── controller    # REST controllers
 ├── service       # Business logic
 ├── repository    # JPA repositories
