@@ -1,6 +1,6 @@
 # 📝 Task Manager API
 
-A simple RESTful API for managing tasks (to-dos), built with Spring Boot and Spring Data JPA. Ideal for learning backend development, CRUD operations, and REST architecture.
+A simple RESTful API for managing tasks (to-dos), built with Spring Boot and Spring Data JPA. for learning backend development, CRUD operations, and REST architecture.
 
 ---
 
