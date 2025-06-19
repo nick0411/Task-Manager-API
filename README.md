@@ -7,7 +7,6 @@ A simple RESTful API for managing tasks (to-dos), built with Spring Boot and Spr
 ## 🚀 Features
 
 * Create, Read, Update, Delete (CRUD) tasks
-* Filter tasks by completion status (optional)
 * Uses in-memory H2 database (easy to run)
 * REST API tested with Postman
 
@@ -15,12 +14,11 @@ A simple RESTful API for managing tasks (to-dos), built with Spring Boot and Spr
 
 ## ⚙️ Tech Stack
 
-* Java 17+
+* Java 21
 * Spring Boot
 * Spring Web
 * Spring Data JPA
 * H2 Database
-* Lombok (optional)
 
 ---
 
@@ -32,7 +30,6 @@ com.example.Task_Manager_API
 ├── service       # Business logic
 ├── repository    # JPA repositories
 ├── model         # Entity classes
-├── dto           # Data transfer objects (optional)
 └── TaskManagerApplication.java
 ```
 
