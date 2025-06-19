@@ -64,8 +64,9 @@ Make sure you have Java and Maven installed.
 ## 🌐 API Endpoints
 
 | Method | Endpoint          | Description       |
-| ------ | ----------------- | ----------------- |
+| ------ |-------------------|-------------------|
 | GET    | `/api/tasks`      | Get all tasks     |
+| GET    | `/api/tasks/{id}` | Get task by id    |
 | POST   | `/api/tasks`      | Create a new task |
 | PUT    | `/api/tasks/{id}` | Update a task     |
 | DELETE | `/api/tasks/{id}` | Delete a task     |
